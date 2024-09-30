@@ -10,3 +10,5 @@ build/
 *.dylib
 *.o
 *.swp
+
+main
